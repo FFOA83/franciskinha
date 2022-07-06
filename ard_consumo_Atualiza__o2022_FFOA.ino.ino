@@ -6,7 +6,7 @@
 #include "RTClib.h"         
 #include <EEPROM.h>         // Biblioteca para gravação dos dados em memória
 #include "EmonLib.h"   //Biblioteca para TP 
-
+//Teste
 EnergyMonitor emon1; 
 Adafruit_ADS1115 ads(0x48);
 const float SetPoint = 50;      //50A/1V
